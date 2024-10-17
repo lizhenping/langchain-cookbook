@@ -1,0 +1,26 @@
+GITHUB_TOKEN="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"
+CLAUDE_TOKEN="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"
+DASHSCOPE_API_KEY="sk-704e7a4155304f00abb5d8105ea13c7d"
+GITHUB_REPO_OWNER="LiZhenping"
+GITHUB_REPO_NAME="langchain-notion"
+NOTION_ROOT_PAGE_ID="118a05ef-c2de-807a-8665-fc06b591be52"
+GITEE_TOKEN="af77489efe3a6ca0afc5dccdc4d4e657"
+PROMPT="请为这段代码生成一个简要的Wiki注释，用markdown格式返回:请根据以下模板为我的代码添加注释：
+/**
+* @功能       : [简要描述函数或模块的主要功能]
+* @描述       : [详细描述代码的作用、使用场景、实现原理等]
+* @参数       :
+*     @param1 [参数名称] [参数类型] : [参数的详细说明]
+*     @param2 [参数名称] [参数类型] : [参数的详细说明]
+* @返回值     :
+*     @return [返回类型] : [返回值的详细说明]
+* @流程       :
+*     1. [步骤一描述]
+*     2. [步骤二描述]
+*     3. [步骤三描述]
+* @示例       :
+*     [提供一个或多个使用该函数或模块的示例代码]
+* @注意       : 这个注释是用AI来生成的描述可能会出错。
+* @作者       : lizhenping
+* @日期       : 2024.10.11
+*/
