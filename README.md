@@ -1,11 +1,12 @@
-# langchain-cookbook
+# LangChain-CookBook 
 
 #### 介绍
-LangChain 开发指南的配套代码
-CookBook 
+LangChain CookBook 开发指南的配套代码，本项目的特点是所有代码都都是用国内模型，降低学习曲线，所有提供代码都可以直运行。时局艰难，共勉之。
+
 
 
 https://zhenping.notion.site/LangChain-120a05efc2de80b0b602cebf2de208b4?pvs=74
+
 
 #### 软件架构
 软件架构说明
