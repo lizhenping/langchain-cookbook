@@ -43,5 +43,5 @@ Software architecture description
 ---  
 
 <div align="center">  
-  [Switch to <a href="README.CN.md">中文</a>](README.CN.md)  
+  [Switch to <a href="README.CN.md">中文</a>]
 </div>
