@@ -43,5 +43,5 @@ LangChain CookBook 开发指南的配套代码。本项目的特点是所有代�
 ---  
 
 <div align="center">  
-  [切换到 English](README.md)  
+  [切换到 <a href="README.md">English</a>]
 </div>
